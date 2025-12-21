@@ -8,19 +8,20 @@
             "md5": "50c741f371b662da68176b37431ff527",
             "category": "Legacy",
             "binary": "/wiiu/sdcafiine/000500001F600A00/",
-            "name": "enemy.shop",
+            "name": "EnemyShop",
             "license": "MIT",
             "title": "Enemy Shop",
-            "url": "https://github.com/Hunter-Xuman/CS-App-Test/releases/download/test",
-            "description": "This mod replaces Huey with Ooooo from the Pixar film Elio :)",
-            "author": "Piggreen346",
+            "url": "https://github.com/Hunter-Xuman/CS-App-Test",
+            "description": "Test",
+            "author": "HunterXuman",
             "changelog": "n/a",
             "extracted": 7547712,
             "version": "1.00",
             "filesize": 6551459,
-            "details": "This mod replaces Huey with Ooooo from the Pixar film Elio :)"
+            "details": "Test"
         }
     ]
 }
+
 
 
