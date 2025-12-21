@@ -7,7 +7,7 @@
             "screens": 3,
             "md5": "50c741f371b662da68176b37431ff527",
             "category": "Legacy",
-            "binary": "/wiiu/sdcafiine/000500001F600A00/",
+            "binary": "none",
             "name": "EnemyShop",
             "license": "MIT",
             "title": "Enemy Shop",
@@ -22,6 +22,7 @@
         }
     ]
 }
+
 
 
 
