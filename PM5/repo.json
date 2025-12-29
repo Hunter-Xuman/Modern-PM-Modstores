@@ -7,7 +7,6 @@
             "screens": 3,
             "md5": "030138eaa793e17c1d52f76ee5ec3d9f",
             "category": "Legacy",
-            "binary": "none",
             "name": "EnemyShop",
             "license": "MIT",
             "title": "Enemy Shop",
@@ -22,6 +21,7 @@
         }
     ]
 }
+
 
 
 
