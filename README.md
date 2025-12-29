@@ -40,7 +40,9 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - Enemy Shop by HunterXuman
 
 #PM6
-- Partners Never Miss by HunterXuman
+- [Partners Never Miss](https://gamebanana.com/mods/422697) by HunterXuman
 
 #PM2R
+
+- [Halloween Vivian](https://gamebanana.com/mods/552669) by HunterXuman
 
