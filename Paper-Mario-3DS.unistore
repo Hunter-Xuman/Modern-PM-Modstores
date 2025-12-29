@@ -9,7 +9,7 @@
         "sheetURL": "https://github.com/Hunter-Xuman/Paper-Mario-3DS-Unistore/raw/main/Paper-Mario-3DS.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 6,
+        "revision": 7,
         "version": 3
     },
     "storeContent": [
@@ -57,9 +57,9 @@
                 "description": "PM4 Challenge Mode is a mod of Paper Mario Sticker Star that adds some slight changes to the game to create a more challenging experience.",
                 "icon_index": 1,
                 "sheet_index": 0,
-                "last_updated": "Dec 20th 2025",
+                "last_updated": "Dec 28th 2025",
                 "license": "CC0 1.0 Universal",
-                "version": "v0.1.2"
+                "version": "v0.1.4"
             },
             "PM4-Challenge-Mode.zip (USA)": [
                 {
@@ -1186,7 +1186,7 @@
                }
             ]
         },
-                {
+        {
             "info": {
                 "title": "Royal Sticker Boss Defense Removal Mod",
                 "author": "HunterXuman",
@@ -1324,6 +1324,86 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/royal_sticker_boss_defense_mod_shiny_defense_.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ]
+        },
+        {
+            "info": {
+                "title": "Old damage animation",
+                "author": "Br123TT",
+                "category": ["Modpack"],
+                "console": ["3DS"],
+                "description": "This is a minor mod that changes Mario's and enemies hurt animation when they take damage.\nBasically, it makes it so that characters don't crumble like older games in the series.",
+                "icon_index": 10,
+                "sheet_index": 0,
+                "last_updated": "Aug 22nd 2025",
+                "license": "CC0 1.0 Universal",
+                "version": "v4"
+            },
+            "Old damage animation (USA)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1501824",
+                    "output": "sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Old damage animation (EUR)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1501824",
+                    "output": "sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Old damage animation (JPN)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1501824",
+                    "output": "sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/PM4-Challenge-Mode.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
                },
                {
                   "type":"promptMessage",
