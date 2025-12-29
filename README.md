@@ -11,9 +11,15 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 
 #Wii U
 - You Will Need SDCafiine https://github.com/wiiu-env/sdcafiine_plugin and the Homebrew App Store https://github.com/fortheusers/hb-appstore
-- Download repos.json from the PM5 source folder and place it into sdmc:/wiiu/apps/appstore/.get
+- Download wiiu.zip from the PM5 source folder and extract it to your SD card
 - Currently, the json also contains the repo for the HB App Store, so mods will show alongside homebrew apps. To help make it easier to find mods, they will be located in the Games section.
 - Open the HB App Store, and browse the games section. Follow the instructions for each mod as some may be standalone modpacks, or merge into a general folder
+
+#Switch
+- You Will Need Atmosphere https://github.com/atmosphere-nx/atmosphere/releases and the Homebrew App Store https://github.com/fortheusers/hb-appstore
+- Download switch.zip from the PM6 source folder and extract it to your SD card
+- Currently, the json also contains the repo for the HB App Store, so mods will show alongside homebrew apps. To help make it easier to find mods, they will be located in the Games section.
+- Atmosphere's layered FS does not use a standard modloader, meaning all mods will use the same folder. BE ADVISED THAT SOME MODS MAY CLASH WITH OTHERS SO PLEASE READ THEIR DESCRIPTIONS
 
 # Mod List
 
