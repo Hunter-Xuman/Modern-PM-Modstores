@@ -1,0 +1,22 @@
+{
+    "packages": [
+        {
+            "updated": "1/16/2023",
+            "appCreated": "1/16/2023",
+            "app_dls": 0,
+            "screens": 3,
+            "category": "game",
+            "name": "PartnersNeverMiss",
+            "license": "GPLv2",
+            "title": "Partners Never Miss",
+            "url": "",
+            "description": "Edits partner accuracy rate to preven't them from missing attacks.",
+            "author": "HunterXuman",
+            "changelog": "n/a",
+            "extracted": 7547712,
+            "version": "1.0",
+            "filesize": 6551459,
+            "details": "This mod makes it so partners never miss attacks by editing their accuracy rate.\nFiles edited:\n- data_btl.elf.zst"
+        }
+    ]
+}
