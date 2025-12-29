@@ -1,15 +1,50 @@
 {
     "packages": [
         {
-            "updated": "06/08/2025",
-            "appCreated": "06/08/2025",
+            "updated": "12/29/2025",
+            "appCreated": "12/29/2025",
             "app_dls": 1986,
             "screens": 3,
-            "md5": "030138eaa793e17c1d52f76ee5ec3d9f",
             "category": "game",
-            "name": "EnemyShop",
+            "name": "EnemyShop(USA)",
             "license": "MIT",
-            "title": "Enemy Shop",
+            "title": "Enemy Shop (USA)",
+            "url": "",
+            "description": "[Seperate] Changes the cards in the card shop to be enemy cards.",
+            "author": "HunterXuman",
+            "changelog": "n/a",
+            "extracted": 7547712,
+            "version": "1.0",
+            "filesize": 6551459,
+            "details": "This mod changes the mods in the card shop to be enemy cards."
+        },
+        {
+            "updated": "12/29/2025",
+            "appCreated": "12/29/2025",
+            "app_dls": 1986,
+            "screens": 3,
+            "category": "game",
+            "name": "EnemyShop(EUR)",
+            "license": "MIT",
+            "title": "Enemy Shop (EUR)",
+            "url": "",
+            "description": "[Seperate] Changes the cards in the card shop to be enemy cards.",
+            "author": "HunterXuman",
+            "changelog": "n/a",
+            "extracted": 7547712,
+            "version": "1.0",
+            "filesize": 6551459,
+            "details": "This mod changes the mods in the card shop to be enemy cards."
+        }
+        {
+            "updated": "12/29/2025",
+            "appCreated": "12/29/2025",
+            "app_dls": 1986,
+            "screens": 3,
+            "category": "game",
+            "name": "EnemyShop(JPN)",
+            "license": "MIT",
+            "title": "Enemy Shop (JPN)",
             "url": "",
             "description": "[Seperate] Changes the cards in the card shop to be enemy cards.",
             "author": "HunterXuman",
@@ -21,11 +56,3 @@
         }
     ]
 }
-
-
-
-
-
-
-
-
