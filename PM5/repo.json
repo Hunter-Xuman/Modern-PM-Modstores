@@ -6,21 +6,22 @@
             "app_dls": 1986,
             "screens": 3,
             "md5": "030138eaa793e17c1d52f76ee5ec3d9f",
-            "category": "Legacy",
+            "category": "game",
             "name": "EnemyShop",
             "license": "MIT",
             "title": "Enemy Shop",
-            "url": "https://github.com/Hunter-Xuman/CS-App-Test",
-            "description": "Test",
+            "url": "",
+            "description": "[Seperate] Changes the cards in the card shop to be enemy cards.",
             "author": "HunterXuman",
             "changelog": "n/a",
             "extracted": 7547712,
             "version": "1.00",
             "filesize": 6551459,
-            "details": "Test"
+            "details": "This mod changes the mods in the card shop to be enemy cards."
         }
     ]
 }
+
 
 
 
