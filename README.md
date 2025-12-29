@@ -23,7 +23,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 
 # Mod List
 
-#3DS
+#PM4
 - [PM4 Challenge Mode](https://github.com/Hunter-Xuman/PM4-Challenge-Mode) by HunterXuman and Shigu
 - [Skippable Dialogue](https://gamebanana.com/mods/606337) by Inbst
 - [The Cut Content Unhidden Mod](https://gamebanana.com/mods/570191) by TheIronicGaymerQween2
@@ -36,5 +36,11 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - [Royal Sticker Boss Defense Removal Mod](https://gamebanana.com/mods/459482) by HunterXuman
 - [Old damage animation](https://gamebanana.com/mods/533877) by Br123TT
 
-#WiiU
+#PM5
 - Enemy Shop by HunterXuman
+
+#PM6
+- Partners Never Miss by HunterXuman
+
+#PM2R
+
