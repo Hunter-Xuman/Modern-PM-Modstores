@@ -1,6 +1,6 @@
 {
     "storeInfo": {
-        "title": "Paper Mario 3DS Unistore",
+        "title": "Paper Mario Sticker Store",
         "author": "HunterXuman",
         "description": "An online repository of community made mods for Paper Mario Sticker Star",
         "file": "Paper-Mario-3DS.unistore",
@@ -1331,8 +1331,8 @@
                   "count":1
                }
             ]
-        },
-        {
+         },
+         {
             "info": {
                 "title": "Old damage animation",
                 "author": "Br123TT",
@@ -1411,8 +1411,407 @@
                   "count":1
                }
             ]
+         },
+         {
+            "info": {
+                "title": "Red and Blue 5 and 10 Coins",
+                "author": "HunterXuman",
+                "category": ["Modpack"],
+                "console": ["3DS"],
+                "description": "This is a simple mod that changes the color of the 5 coin to red, and the 10 coin to blue.\nThere is an unused red coin texture in the game, so this was applied to the 5 coin,\nand the blue is a custom edit of that texture for the 10 coin.",
+                "icon_index": 12,
+                "sheet_index": 0,
+                "last_updated": "Jul 2 2024",
+                "license": "CC0 1.0 Universal",
+                "version": "1.0"
+            },
+            "Red and Blue 5 and 10 Coins (USA)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/525406",
+                    "output": "sdmc:/PM3DS/red_and_blue_5_and_10_coin.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/red_and_blue_5_and_10_coin.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/red_and_blue_5_and_10_coin.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Red and Blue 5 and 10 Coins (EUR)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/525406",
+                    "output": "sdmc:/PM3DS/red_and_blue_5_and_10_coin.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/red_and_blue_5_and_10_coin.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/red_and_blue_5_and_10_coin.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Red and Blue 5 and 10 Coins (JPN)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/525406",
+                    "output": "sdmc:/PM3DS/red_and_blue_5_and_10_coin.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/red_and_blue_5_and_10_coin.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/red_and_blue_5_and_10_coin.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ]
+         },
+         {
+            "info": {
+                "title": "Ooooo (Kersti Mod)",
+                "author": "Piggreen346",
+                "category": ["Modpack"],
+                "console": ["3DS"],
+                "description": "This mod simply replaces Kersti.",
+                "icon_index": 13,
+                "sheet_index": 0,
+                "last_updated": "Aug 5 2025",
+                "license": "CC0 1.0 Universal",
+                "version": "1.0"
+            },
+            "Ooooo (Kersti Mod) (USA)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/611770",
+                    "output": "sdmc:/PM3DS/ooooo_mod.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/ooooo_mod.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/ooooo_mod.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Ooooo (Kersti Mod) (EUR)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/611770",
+                    "output": "sdmc:/PM3DS/ooooo_mod.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/ooooo_mod.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/ooooo_mod.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Ooooo (Kersti Mod) (JPN)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/611770",
+                    "output": "sdmc:/PM3DS/ooooo_mod.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/ooooo_mod.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/ooooo_mod.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ]
+         },
+         {
+            "info": {
+                "title": "Kurt Angle Stare Goomba Boss",
+                "author": "Piggreen346",
+                "category": ["Modpack"],
+                "console": ["3DS"],
+                "description": "kurt angle so good",
+                "icon_index": 14,
+                "sheet_index": 0,
+                "last_updated": "Mar 20 2024",
+                "license": "CC0 1.0 Universal",
+                "version": "1.0"
+            },
+            "Kurt Angle Stare Goomba Boss (USA)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/502084",
+                    "output": "sdmc:/PM3DS/romfs_f1e3f.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Kurt Angle Stare Goomba Boss (EUR)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/502084",
+                    "output": "sdmc:/PM3DS/romfs_f1e3f.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Kurt Angle Stare Goomba Boss (JPN)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/502084",
+                    "output": "sdmc:/PM3DS/romfs_f1e3f.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ]
+         },
+         {
+            "info": {
+                "title": "Cursed BattleMap Snow",
+                "author": "Piggreen346",
+                "category": ["Modpack"],
+                "console": ["3DS"],
+                "description": "Cursed Battlemap Snow",
+                "icon_index": 15,
+                "sheet_index": 0,
+                "last_updated": "Dec 2 2023",
+                "license": "CC0 1.0 Universal",
+                "version": "1.0"
+            },
+            "Cursed BattleMap Snow (USA)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/482091",
+                    "output": "sdmc:/PM3DS/cursed_battlemap_snow.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/cursed_battlemap_snow.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/cursed_battlemap_snow.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Cursed BattleMap Snow (EUR)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/482091",
+                    "output": "sdmc:/PM3DS/cursed_battlemap_snow.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/cursed_battlemap_snow.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/cursed_battlemap_snow.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Cursed BattleMap Snow (JPN)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/482091",
+                    "output": "sdmc:/PM3DS/cursed_battlemap_snow.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/cursed_battlemap_snow.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/cursed_battlemap_snow.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ]
+         },
+         {
+            "info": {
+                "title": "Retro Goomba",
+                "author": "Piggreen346",
+                "category": ["Modpack"],
+                "console": ["3DS"],
+                "description": "Retro Goomba For RetroGuy",
+                "icon_index": 16,
+                "sheet_index": 0,
+                "last_updated": "Nov 14 2023",
+                "license": "CC0 1.0 Universal",
+                "version": "1.0"
+            },
+            "Retro Goomba (USA)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/479127",
+                    "output": "sdmc:/PM3DS/retro_goomba.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/retro_goomba.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/retro_goomba.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Retro Goomba (EUR)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/479127",
+                    "output": "sdmc:/PM3DS/retro_goomba.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/retro_goomba.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/retro_goomba.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Retro Goomba (JPN)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/479127",
+                    "output": "sdmc:/PM3DS/retro_goomba.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/retro_goomba.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/retro_goomba.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ]
         }
     ]
-
 }
 
