@@ -1,5 +1,5 @@
 # Modern PM Modstores
-An online repository of community made mods for Paper Mario Sticker Star, Color Splash, The Origami King, and The Thousand Year Door Switch.
+An online repository of community made mods for Paper Mario Sticker Star, Color Splash, The Origami King, and The Thousand Year Door Switch. 
 
 # Installation
 
@@ -46,3 +46,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 
 - [Halloween Vivian](https://gamebanana.com/mods/552669) by HunterXuman
 
+# Helpful Resources
+
+For additional help and resources for making and using mods, visit the [Paper Mario Technical Knowledge Base](https://papermariotkb.wiki.gg/wiki/Paper_Mario_Technical_Knowledge_Base) for general game and modding information.
+For community support, join the [Modern PM Modding Discord Server](https://discord.gg/9EzRrfVfPg).
