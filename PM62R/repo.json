@@ -46,13 +46,13 @@
             "license": "GPLv2",
             "title": "[TTYD] Loading Zone Randomizer",
             "url": "",
-            "description": "This changes all of vivians known used textures and icons.",
-            "author": "HunterXuman",
-            "changelog": "n/a",
-            "extracted": 7547712,
+            "description": "This is a room randomizer mod that randomizes each room you enter.",
+            "author": "CaXaP",
+            "changelog": "UPDATE v0.2:\n• Now you can hold R when switching rooms to not randomize them.\n• More glitchy rooms excluded",
+            "extracted": 133405,
             "version": "0.2",
-            "filesize": 6551459,
-            "details": "This changes all of vivians known used textures and icons.\nSome UI, like the tattle log, isnt changed as I couldnt figure out the proper format to save it in\nFiles edited:\n- Shadowhide.bfres.zst\n- VVA.bfres.zst\n- VVA_Back.bfres.zst\n- VVA_Dot.bfres.zst\n- VVA_E.bfres.zst\n- Info_PartyChange_Icon.bfres.zst\n- Unit_Status.bfres.zst"
+            "filesize": 96173,
+            "details": "Good-old Loading Zone Randomizer similar to the one for the original TTYD. It randomizes the room when you switch rooms. And does nothing else. Special rooms like Mario and Luigi's house, title screen, ending and others don't get randomized to prevent softlocks.\nFiles Edited:\n- main.npdm\n- subsdk9"
         }
     ]
 }
