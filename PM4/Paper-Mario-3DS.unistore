@@ -1,6 +1,6 @@
 {
     "storeInfo": {
-        "title": "Paper Mario Sticker Store",
+        "title": "Paper Mario 3DS Unistore",
         "author": "HunterXuman",
         "description": "An online repository of community made mods for Paper Mario Sticker Star",
         "file": "Paper-Mario-3DS.unistore",
@@ -1331,94 +1331,14 @@
                   "count":1
                }
             ]
-         },
-         {
-            "info": {
-                "title": "Old damage animation",
-                "author": "Br123TT",
-                "category": ["Modpack"],
-                "console": ["3DS"],
-                "description": "This is a minor mod that changes Mario's and enemies hurt animation when they take damage.\nBasically, it makes it so that characters don't crumble like older games in the series.",
-                "icon_index": 11,
-                "sheet_index": 0,
-                "last_updated": "Aug 22nd 2025",
-                "license": "CC0 1.0 Universal",
-                "version": "v4"
-            },
-            "Old damage animation (USA)": [
+        },
                 {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1501824",
-                    "output": "sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip",
-                  "input":"romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
-               }
-            ],
-            "Old damage animation (EUR)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1501824",
-                    "output": "sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip",
-                  "input":"romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
-               }
-            ],
-            "Old damage animation (JPN)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1501824",
-                    "output": "sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/PM4-Challenge-Mode.zip",
-                  "input":"romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
-               }
-            ]
-         },
-         {
             "info": {
                 "title": "Red and Blue 5 and 10 Coins",
                 "author": "HunterXuman",
                 "category": ["Modpack"],
                 "console": ["3DS"],
-                "description": "This is a simple mod that changes the color of the 5 coin to red, and the 10 coin to blue.\nThere is an unused red coin texture in the game, so this was applied to the 5 coin,\nand the blue is a custom edit of that texture for the 10 coin.",
+                "description": "This is a simple mod that changes the color of the 5 coin to red, and the 10 coin to blue. There is an unused red coin texture in the game, so this was applied to the 5 coin, and the blue is a custom edit of that texture for the 10 coin.",
                 "icon_index": 12,
                 "sheet_index": 0,
                 "last_updated": "Jul 2 2024",
@@ -1428,7 +1348,7 @@
             "Red and Blue 5 and 10 Coins (USA)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1227887",
+                    "file": "https://gamebanana.com/dl/525406",
                     "output": "sdmc:/PM3DS/red_and_blue_5_and_10_coin.zip"
                 },
                 {
@@ -1450,7 +1370,7 @@
             "Red and Blue 5 and 10 Coins (EUR)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1227887",
+                    "file": "https://gamebanana.com/dl/525406",
                     "output": "sdmc:/PM3DS/red_and_blue_5_and_10_coin.zip"
                 },
                 {
@@ -1472,7 +1392,7 @@
             "Red and Blue 5 and 10 Coins (JPN)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1227887",
+                    "file": "https://gamebanana.com/dl/525406",
                     "output": "sdmc:/PM3DS/red_and_blue_5_and_10_coin.zip"
                 },
                 {
@@ -1491,8 +1411,8 @@
                   "count":1
                }
             ]
-         },
-         {
+        },
+                {
             "info": {
                 "title": "Ooooo (Kersti Mod)",
                 "author": "Piggreen346",
@@ -1508,7 +1428,7 @@
             "Ooooo (Kersti Mod) (USA)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1491515",
+                    "file": "https://gamebanana.com/dl/611770",
                     "output": "sdmc:/PM3DS/ooooo_mod.zip"
                 },
                 {
@@ -1530,7 +1450,7 @@
             "Ooooo (Kersti Mod) (EUR)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1491515",
+                    "file": "https://gamebanana.com/dl/611770",
                     "output": "sdmc:/PM3DS/ooooo_mod.zip"
                 },
                 {
@@ -1552,7 +1472,7 @@
             "Ooooo (Kersti Mod) (JPN)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1491515",
+                    "file": "https://gamebanana.com/dl/611770",
                     "output": "sdmc:/PM3DS/ooooo_mod.zip"
                 },
                 {
@@ -1571,10 +1491,10 @@
                   "count":1
                }
             ]
-         },
-         {
+        },
+                {
             "info": {
-                "title": "Kurt Angle Stare Goomba Boss",
+                "title": "Skip The Intro",
                 "author": "Piggreen346",
                 "category": ["Modpack"],
                 "console": ["3DS"],
@@ -1585,21 +1505,21 @@
                 "license": "CC0 1.0 Universal",
                 "version": "1.0"
             },
-            "Kurt Angle Stare Goomba Boss (USA)": [
+            "Skip The Intro (USA)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1159304",
-                    "output": "sdmc:/PM3DS/romfs_f1e3f.zip"
+                    "file": "https://gamebanana.com/dl/1593190",
+                    "output": "sdmc:/PM3DS/skipintro_27695.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip",
+                  "file":"sdmc:/PM3DS/skipintro_27695.zip",
                   "input":"romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip"
+                  "file":"sdmc:/PM3DS/skipintro_27695.zip"
                },
                {
                   "type":"promptMessage",
@@ -1607,21 +1527,21 @@
                   "count":1
                }
             ],
-            "Kurt Angle Stare Goomba Boss (EUR)": [
+            "Skip The Intro (EUR)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1159304",
-                    "output": "sdmc:/PM3DS/romfs_f1e3f.zip"
+                    "file": "https://gamebanana.com/dl/1593190",
+                    "output": "sdmc:/PM3DS/skipintro_27695.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip",
+                  "file":"sdmc:/PM3DS/skipintro_27695.zip",
                   "input":"romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip"
+                  "file":"sdmc:/PM3DS/skipintro_27695.zip"
                },
                {
                   "type":"promptMessage",
@@ -1629,21 +1549,21 @@
                   "count":1
                }
             ],
-            "Kurt Angle Stare Goomba Boss (JPN)": [
+            "Skip The Intro (JPN)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1159304",
-                    "output": "sdmc:/PM3DS/romfs_f1e3f.zip"
+                    "file": "https://gamebanana.com/dl/1593190",
+                    "output": "sdmc:/PM3DS/skipintro_27695.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip",
+                  "file":"sdmc:/PM3DS/skipintro_27695.zip",
                   "input":"romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip"
+                  "file":"sdmc:/PM3DS/skipintro_27695.zip"
                },
                {
                   "type":"promptMessage",
@@ -1651,8 +1571,8 @@
                   "count":1
                }
             ]
-         },
-         {
+        },
+                {
             "info": {
                 "title": "Cursed BattleMap Snow",
                 "author": "Piggreen346",
@@ -1668,7 +1588,7 @@
             "Cursed BattleMap Snow (USA)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1096354",
+                    "file": "https://gamebanana.com/dl/482091",
                     "output": "sdmc:/PM3DS/cursed_battlemap_snow.zip"
                 },
                 {
@@ -1690,7 +1610,7 @@
             "Cursed BattleMap Snow (EUR)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1096354",
+                    "file": "https://gamebanana.com/dl/482091",
                     "output": "sdmc:/PM3DS/cursed_battlemap_snow.zip"
                 },
                 {
@@ -1712,7 +1632,7 @@
             "Cursed BattleMap Snow (JPN)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1096354",
+                    "file": "https://gamebanana.com/dl/482091",
                     "output": "sdmc:/PM3DS/cursed_battlemap_snow.zip"
                 },
                 {
@@ -1731,8 +1651,8 @@
                   "count":1
                }
             ]
-         },
-         {
+        },
+                {
             "info": {
                 "title": "Retro Goomba",
                 "author": "Piggreen346",
@@ -1748,7 +1668,7 @@
             "Retro Goomba (USA)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1087503",
+                    "file": "https://gamebanana.com/dl/479127",
                     "output": "sdmc:/PM3DS/retro_goomba.zip"
                 },
                 {
@@ -1770,7 +1690,7 @@
             "Retro Goomba (EUR)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1087503",
+                    "file": "https://gamebanana.com/dl/479127",
                     "output": "sdmc:/PM3DS/retro_goomba.zip"
                 },
                 {
@@ -1792,7 +1712,7 @@
             "Retro Goomba (JPN)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1087503",
+                    "file": "https://gamebanana.com/dl/479127",
                     "output": "sdmc:/PM3DS/retro_goomba.zip"
                 },
                 {
@@ -1811,6 +1731,95 @@
                   "count":1
                }
             ]
+        },
+                {
+            "info": {
+                "title": "Skip The Intro",
+                "author": "Shigu",
+                "category": ["Modpack"],
+                "console": ["3DS"],
+                "description": "Pretty self explanatory.",
+                "icon_index": 17,
+                "sheet_index": 0,
+                "last_updated": "Jan 1 2026",
+                "license": "CC0 1.0 Universal",
+                "version": "1.0"
+            },
+            "Skip The Intro (USA)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1593190",
+                    "output": "sdmc:/PM3DS/skipintro_27695.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/skipintro_27695.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/skipintro_27695.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Skip The Intro (EUR)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1593190",
+                    "output": "sdmc:/PM3DS/skipintro_27695.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/skipintro_27695.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/skipintro_27695.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Skip The Intro (JPN)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1593190",
+                    "output": "sdmc:/PM3DS/skipintro_27695.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/skipintro_27695.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/skipintro_27695.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ]
         }
+
+
+
+
+
+
+            
     ]
+
 }
+

@@ -48,6 +48,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - [Cursed BattleMap Snow](https://gamebanana.com/mods/482091) by Piggreen346
 - [Retro Goomba](https://gamebanana.com/mods/479127) by Piggreen346
 - [The Green Screen Battle map](https://gamebanana.com/mods/535720) by Piggreen346
+- [Skip The Intro](https://gamebanana.com/mods/643395) by Shigu
 </details>
 
 <details>
