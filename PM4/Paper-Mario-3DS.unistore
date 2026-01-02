@@ -1,6 +1,6 @@
 {
     "storeInfo": {
-        "title": "Paper Mario 3DS Unistore",
+        "title": "Paper Mario Sticker Store",
         "author": "HunterXuman",
         "description": "An online repository of community made mods for Paper Mario Sticker Star",
         "file": "Paper-Mario-3DS.unistore",
@@ -9,7 +9,7 @@
         "sheetURL": "https://github.com/Hunter-Xuman/Paper-Mario-3DS-Unistore/raw/main/PM4/Paper-Mario-3DS.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 9,
+        "revision": 10,
         "version": 3
     },
     "storeContent": [
@@ -1331,14 +1331,94 @@
                   "count":1
                }
             ]
-        },
+         },
+         {
+            "info": {
+                "title": "Old damage animation",
+                "author": "Br123TT",
+                "category": ["Modpack"],
+                "console": ["3DS"],
+                "description": "This is a minor mod that changes Mario's and enemies hurt animation when they take damage.\nBasically, it makes it so that characters don't crumble like older games in the series.",
+                "icon_index": 11,
+                "sheet_index": 0,
+                "last_updated": "Aug 22nd 2025",
+                "license": "CC0 1.0 Universal",
+                "version": "v4"
+            },
+            "Old damage animation (USA)": [
                 {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1501824",
+                    "output": "sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Old damage animation (EUR)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1501824",
+                    "output": "sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Old damage animation (JPN)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1501824",
+                    "output": "sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/PM4-Challenge-Mode.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ]
+         },
+         {
             "info": {
                 "title": "Red and Blue 5 and 10 Coins",
                 "author": "HunterXuman",
                 "category": ["Modpack"],
                 "console": ["3DS"],
-                "description": "This is a simple mod that changes the color of the 5 coin to red, and the 10 coin to blue. There is an unused red coin texture in the game, so this was applied to the 5 coin, and the blue is a custom edit of that texture for the 10 coin.",
+                "description": "This is a simple mod that changes the color of the 5 coin to red, and the 10 coin to blue.\nThere is an unused red coin texture in the game, so this was applied to the 5 coin,\nand the blue is a custom edit of that texture for the 10 coin.",
                 "icon_index": 12,
                 "sheet_index": 0,
                 "last_updated": "Jul 2 2024",
@@ -1411,8 +1491,8 @@
                   "count":1
                }
             ]
-        },
-                {
+         },
+         {
             "info": {
                 "title": "Ooooo (Kersti Mod)",
                 "author": "Piggreen346",
@@ -1491,10 +1571,10 @@
                   "count":1
                }
             ]
-        },
-                {
+         },
+         {
             "info": {
-                "title": "Skip The Intro",
+                "title": "Kurt Angle Stare Goomba Boss",
                 "author": "Piggreen346",
                 "category": ["Modpack"],
                 "console": ["3DS"],
@@ -1505,21 +1585,21 @@
                 "license": "CC0 1.0 Universal",
                 "version": "1.0"
             },
-            "Skip The Intro (USA)": [
+            "Kurt Angle Stare Goomba Boss (USA)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1593190",
-                    "output": "sdmc:/PM3DS/skipintro_27695.zip"
+                    "file": "https://gamebanana.com/dl/502084",
+                    "output": "sdmc:/PM3DS/romfs_f1e3f.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/skipintro_27695.zip",
+                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip",
                   "input":"romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/skipintro_27695.zip"
+                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip"
                },
                {
                   "type":"promptMessage",
@@ -1527,21 +1607,21 @@
                   "count":1
                }
             ],
-            "Skip The Intro (EUR)": [
+            "Kurt Angle Stare Goomba Boss (EUR)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1593190",
-                    "output": "sdmc:/PM3DS/skipintro_27695.zip"
+                    "file": "https://gamebanana.com/dl/502084",
+                    "output": "sdmc:/PM3DS/romfs_f1e3f.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/skipintro_27695.zip",
+                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip",
                   "input":"romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/skipintro_27695.zip"
+                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip"
                },
                {
                   "type":"promptMessage",
@@ -1549,21 +1629,21 @@
                   "count":1
                }
             ],
-            "Skip The Intro (JPN)": [
+            "Kurt Angle Stare Goomba Boss (JPN)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1593190",
-                    "output": "sdmc:/PM3DS/skipintro_27695.zip"
+                    "file": "https://gamebanana.com/dl/502084",
+                    "output": "sdmc:/PM3DS/romfs_f1e3f.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/skipintro_27695.zip",
+                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip",
                   "input":"romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/skipintro_27695.zip"
+                  "file":"sdmc:/PM3DS/romfs_f1e3f.zip"
                },
                {
                   "type":"promptMessage",
@@ -1571,8 +1651,8 @@
                   "count":1
                }
             ]
-        },
-                {
+         },
+         {
             "info": {
                 "title": "Cursed BattleMap Snow",
                 "author": "Piggreen346",
@@ -1651,8 +1731,8 @@
                   "count":1
                }
             ]
-        },
-                {
+         },
+         {
             "info": {
                 "title": "Retro Goomba",
                 "author": "Piggreen346",
@@ -1731,8 +1811,8 @@
                   "count":1
                }
             ]
-        },
-                {
+         },
+         {
             "info": {
                 "title": "Skip The Intro",
                 "author": "Shigu",
@@ -1811,15 +1891,86 @@
                   "count":1
                }
             ]
-        }
-
-
-
-
-
-
-            
+         },
+         {
+            "info": {
+                "title": "Rogueport Town Theme over Decalburg",
+                "author": "HunterXuman",
+                "category": ["BGM"],
+                "console": ["3DS"],
+                "description": "PM4 Challenge Mode is a mod of Paper Mario Sticker Star that adds some slight changes to the game to create a more challenging experience.",
+                "icon_index": 18,
+                "sheet_index": 0,
+                "last_updated": "Dec 28th 2022",
+                "license": "CC0 1.0 Universal",
+                "version": "v1.0"
+            },
+            "Rogueport Theme (USA)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/912567",
+                    "output": "sdmc:/PM3DS/rougeport_over_decalburg.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/rougeport_over_decalburg.zip",
+                  "input":"",
+                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/sound/stream/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/rougeport_over_decalburg.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Rogueport Theme (EUR)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/912567",
+                    "output": "sdmc:/PM3DS/rougeport_over_decalburg.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/rougeport_over_decalburg.zip",
+                  "input":"",
+                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/sound/stream/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/rougeport_over_decalburg.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Rogueport Theme (JPN)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/912567",
+                    "output": "sdmc:/PM3DS/rougeport_over_decalburg.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/rougeport_over_decalburg.zip",
+                  "input":"",
+                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/sound/stream/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/rougeport_over_decalburg.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ]
+        }  
     ]
-
 }
-
