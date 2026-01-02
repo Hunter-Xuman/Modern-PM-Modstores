@@ -95,7 +95,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
     manifest.install
 - Fourth, the "name" field in the repo template is the actual name of the zip. Thats how the app will find that specific mod. Because the app store for TOK and TTYD are shared, to make it easier for everyone to navigate, start your mod with the same prefix as you did when you edited info.json ([TOK] for TOK and [TTYD] for TTYD).
 - Finally, to add images to your mod for the store, you need to create a folder called packages and inside that, a folder(s) matching the name of your mod.zip(s). There are 2 main images you need to create. The Icon is a 256x150 png called icon.png. The Banner is a 848x208 png called screen.png. If you want to display screenshots, these are 1920x1080 pngs that are subsequently called screen(number).png, (ex. screen1.png, screen2.png etc.)
-- After editing all of that. You should be left with a folder full of things that look similar (but not exactly depending on region) to this
+- After editing all of that. You should be left with a folder full of things that look similar to this
     packages
     repo.json
     [TOK]MyMod.zip OR [TTYD]MyMod.zip
