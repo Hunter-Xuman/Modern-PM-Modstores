@@ -41,7 +41,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - For the icon_index check the highest numbered .png file in the icons folder, and then change this number to be 1 higher than that (so if the highest number is 9.png, your new icon index should be 10)
 - Design an Icon for your mod in the exact size dimension 48x48 in PNG format, and save it as the same name as the icon index you changed.
 - After changing the information, save your file as NEW MOD SUBMISSION.json
-⁠- Zip your NEW MOD SUBMISSION.json and (iconindexnumber).png  and upload them to a public drive, and then [submit your request as an issue using the form, with the title being "Submission MODNAME GAMENAME" and the body having a link to your mod.](https://github.com/Hunter-Xuman/Modern-PM-Modstores/issues/new) If your mod also has a public release page (like github, gamebanana etc.) Please link that as well so it can be linked properly in the Mod List below.
+- Zip your NEW MOD SUBMISSION.json and (iconindexnumber).png  and upload them to a public drive, and then [submit your request as an issue using the form, with the title being "Submission MODNAME GAMENAME" and the body having a link to your mod.](https://github.com/Hunter-Xuman/Modern-PM-Modstores/issues/new) If your mod also has a public release page (like github, gamebanana etc.) Please link that as well so it can be linked properly in the Mod List below.
 </details>
 
 <details>
