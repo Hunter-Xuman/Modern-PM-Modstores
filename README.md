@@ -136,6 +136,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 
 - Enemy Shop by HunterXuman
 - [Ooooo Over Huey](https://gamebanana.com/mods/611969) by Piggreen346
+- [Paint Hammer Color Pack](https://gamebanana.com/mods/644052) by HunterXuman
 </details>
 
 <details>
