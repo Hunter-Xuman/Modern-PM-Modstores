@@ -154,6 +154,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 
 - [Halloween Vivian](https://gamebanana.com/mods/552669) by HunterXuman
 - [Loading Zone Randomizer](https://gamebanana.com/mods/587002) by CaXaP
+- [Faster Yoshi](https://gamebanana.com/mods/644419) by Nagisa/Panda
 </details>
 
 # Helpful Resources
