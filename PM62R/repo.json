@@ -161,6 +161,24 @@
             "version": "1.0",
             "filesize": 21018345,
             "details": "I wanted to experiment with PMTOK Modding, so I decided to try and make a SMG4 Player Skin since it's fairly easy to make.\nThis skin was made using a batch action in Photoshop, this means all of Mario's sprites have been edited to look like SMG4.\nThe downside of this is that Marios tongue is now blue as well. but that's a minor detail.\nHope you enjoy this mod."
+        },
+        {
+            "updated": "10/13/2025",
+            "appCreated": "10/13/2025",
+            "app_dls": 0,
+            "screens": 3,
+            "category": "game",
+            "name": "[TTYD]DryKoops",
+            "license": "GPLv2",
+            "title": "[TTYD]Dry Koops",
+            "url": "",
+            "description": "Gives Koops a Dry Bones Costume",
+            "author": "Pedro_Jose",
+            "changelog": "n/a",
+            "extracted": 2264661,
+            "version": "1.0",
+            "filesize": 2267486,
+            "details": "Just a skin mod i wanted to make for Halloween. All the positive comments on my Doopliss mod encouraged me to do another mod!\nThis time, for my favorite partner in the game, Koops!\nThe 8-Bit/Retro Dry Koops sprite was made by sk1ppyskip with permission from him!\n(Due to how the game's character icons work, if you want to have this mod with another Mario or Partner mod,\nyou will have to extract the character's icons from the UI files in one of the mods with Switch Toolbox and put them on the other mod's UI files)"
         }
     ]
 }
