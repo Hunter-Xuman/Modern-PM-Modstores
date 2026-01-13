@@ -179,6 +179,24 @@
             "version": "1.0",
             "filesize": 2267486,
             "details": "Just a skin mod i wanted to make for Halloween. All the positive comments on my Doopliss mod encouraged me to do another mod!\nThis time, for my favorite partner in the game, Koops!\nThe 8-Bit/Retro Dry Koops sprite was made by sk1ppyskip with permission from him!\n(Due to how the game's character icons work, if you want to have this mod with another Mario or Partner mod,\nyou will have to extract the character's icons from the UI files in one of the mods with Switch Toolbox and put them on the other mod's UI files)"
+        },
+        {
+            "updated": "01/11/2026",
+            "appCreated": "01/11/2026",
+            "app_dls": 0,
+            "screens": 3,
+            "category": "game",
+            "name": "[TTYD]SavingInThePit",
+            "license": "GPLv2",
+            "title": "[TTYD]Saving In The Pit",
+            "url": "",
+            "description": "Adds a Save Block in all rooms of the Pit of 100 Trials.",
+            "author": "MrA2212",
+            "changelog": "n/a",
+            "extracted": 1660,
+            "version": "1.0",
+            "filesize": 1379,
+            "details": "Adds a Save Block in all rooms of the Pit of 100 Trials.\nAllowing saving in the pit without loss of progress when the game is closed."
         }
     ]
 }

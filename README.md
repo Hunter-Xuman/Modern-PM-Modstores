@@ -131,6 +131,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - [Enemy Stickers](https://gamebanana.com/mods/645153) by SmacAttac
 - [Shiny Dry Bones for Petey's Bossfight](https://gamebanana.com/mods/645191) by SmacAttac
 - [Classic Jump and Hammer Designs](https://gamebanana.com/mods/645152) by Flare
+- [Classic Enemy Designs](https://gamebanana.com/mods/645734) by JoeL.
 </details>
 
 <details>
@@ -161,6 +162,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - [Loading Zone Randomizer](https://gamebanana.com/mods/587002) by CaXaP
 - [Faster Yoshi](https://gamebanana.com/mods/644419) by Nagisa/Panda
 - [Dry Koops](https://gamebanana.com/mods/626816) by Pedro Jose
+- [Saving In The Pit](https://gamebanana.com/mods/645583) by MrA2212
 </details>
 
 # Helpful Resources
