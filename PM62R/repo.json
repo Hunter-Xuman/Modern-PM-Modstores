@@ -152,7 +152,7 @@
             "category": "game",
             "name": "[TOK]SMG4PlayerSkin",
             "license": "GPLv2",
-            "title": "[TOK]SMG4 Player Skin",
+            "title": "[TOK] SMG4 Player Skin",
             "url": "",
             "description": "Changes Mario's clothes to SMG4",
             "author": "meme_man_not_ava",
@@ -170,7 +170,7 @@
             "category": "game",
             "name": "[TTYD]DryKoops",
             "license": "GPLv2",
-            "title": "[TTYD]Dry Koops",
+            "title": "[TTYD] Dry Koops",
             "url": "",
             "description": "Gives Koops a Dry Bones Costume",
             "author": "Pedro_Jose",
@@ -188,7 +188,7 @@
             "category": "game",
             "name": "[TTYD]SavingInThePit",
             "license": "GPLv2",
-            "title": "[TTYD]Saving In The Pit",
+            "title": "[TTYD] Saving In The Pit",
             "url": "",
             "description": "Adds a Save Block in all rooms of the Pit of 100 Trials.",
             "author": "MrA2212",
@@ -197,6 +197,24 @@
             "version": "1.0",
             "filesize": 1379,
             "details": "Adds a Save Block in all rooms of the Pit of 100 Trials.\nAllowing saving in the pit without loss of progress when the game is closed."
+        },
+        {
+            "updated": "01/15/2026",
+            "appCreated": "01/15/2026",
+            "app_dls": 0,
+            "screens": 3,
+            "category": "game",
+            "name": "[TTYD]BattleUISpeedUp",
+            "license": "GPLv2",
+            "title": "[TTYD] Battle UI SpeedUp",
+            "url": "",
+            "description": "Unlocks input earlier between different actions.",
+            "author": "PistonMiner",
+            "changelog": "n/a",
+            "extracted": 917,
+            "version": "1.0",
+            "filesize": 657,
+            "details": "Unlocks input earlier when rotating between different actions (jump/hammer/...)\nand when entering a command list (e.g. selecting which jump type/hammer type/item/special move/... to use),\nthus allowing faster move selection."
         }
     ]
 }

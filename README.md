@@ -163,6 +163,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - [Faster Yoshi](https://gamebanana.com/mods/644419) by Nagisa/Panda
 - [Dry Koops](https://gamebanana.com/mods/626816) by Pedro Jose
 - [Saving In The Pit](https://gamebanana.com/mods/645583) by MrA2212
+- [Battle UI Speedup](https://gamebanana.com/mods/646375) by PistonMiner
 </details>
 
 # Helpful Resources
