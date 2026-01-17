@@ -1,4 +1,4 @@
-{
+CC BY-NC-ND 4.0{
     "storeInfo": {
         "title": "Paper Mario Sticker Store",
         "author": "HunterXuman",
@@ -9,7 +9,7 @@
         "sheetURL": "https://github.com/Hunter-Xuman/Paper-Mario-3DS-Unistore/raw/main/PM4/Paper-Mario-3DS.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 12,
+        "revision": 13,
         "version": 3
     },
     "storeContent": [
@@ -2814,25 +2814,25 @@
                 "description": "As the title states, this is a mod that changes nearly all the returning enemies from ttyd/spm into their classic designs from said games",
                 "icon_index": 25,
                 "sheet_index": 0,
-                "last_updated": "Jan 12 2026",
+                "last_updated": "Jan 14 2026",
                 "license": "CC0 1.0 Universal",
                 "version": "1.0"
             },
             "Classic Enemy Designs (USA)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1601056",
-                    "output": "sdmc:/PM3DS/classic_enemies_cd9a8.zip"
+                    "file": "https://gamebanana.com/dl/1602282",
+                    "output": "sdmc:/PM3DS/classic_enemies_e4140.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/classic_enemies_cd9a8.zip",
+                  "file":"sdmc:/PM3DS/classic_enemies_e4140.zip",
                   "input":"romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/classic_enemies_cd9a8.zip"
+                  "file":"sdmc:/PM3DS/classic_enemies_e4140.zip"
                },
                {
                   "type":"promptMessage",
@@ -2843,18 +2843,18 @@
             "Classic Enemy Designs (EUR)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1601056",
-                    "output": "sdmc:/PM3DS/classic_enemies_cd9a8.zip"
+                    "file": "https://gamebanana.com/dl/1602282",
+                    "output": "sdmc:/PM3DS/classic_enemies_e4140.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/classic_enemies_cd9a8.zip",
+                  "file":"sdmc:/PM3DS/classic_enemies_e4140.zip",
                   "input":"romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/classic_enemies_cd9a8.zip"
+                  "file":"sdmc:/PM3DS/classic_enemies_e4140.zip"
                },
                {
                   "type":"promptMessage",
@@ -2865,18 +2865,18 @@
             "Classic Enemy Designs (JPN)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1601056",
-                    "output": "sdmc:/PM3DS/classic_enemies_cd9a8.zip"
+                    "file": "https://gamebanana.com/dl/1602282",
+                    "output": "sdmc:/PM3DS/classic_enemies_e4140.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/classic_enemies_cd9a8.zip",
+                  "file":"sdmc:/PM3DS/classic_enemies_e4140.zip",
                   "input":"romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/classic_enemies_cd9a8.zip"
+                  "file":"sdmc:/PM3DS/classic_enemies_e4140.zip"
                },
                {
                   "type":"promptMessage",
@@ -2884,6 +2884,246 @@
                   "count":1
                }
             ]
-        }
+        },
+        {
+            "info": {
+                "title": "Beta Camera Angle",
+                "author": "Br123TT",
+                "category": ["Modpack"],
+                "console": ["3DS"],
+                "description": "this is a mod that changes the battle camera to a recreation of the one from earlier sticker star builds, most things and bosses are incompatible with the mod and will just face Mario.",
+                "icon_index": 26,
+                "sheet_index": 0,
+                "last_updated": "Jan 13 2026",
+                "license": "CC0 1.0 Universal",
+                "version": "1.0"
+            },
+            "Beta Camera Angle (USA)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1601992",
+                    "output": "sdmc:/PM3DS/prototype_battle_camera_mod_3_.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/prototype_battle_camera_mod_3_.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/prototype_battle_camera_mod_3_.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Beta Camera Angle (EUR)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1601992",
+                    "output": "sdmc:/PM3DS/prototype_battle_camera_mod_3_.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/prototype_battle_camera_mod_3_.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/prototype_battle_camera_mod_3_.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Beta Camera Angle (JPN)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1601992",
+                    "output": "sdmc:/PM3DS/prototype_battle_camera_mod_3_.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/prototype_battle_camera_mod_3_.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/prototype_battle_camera_mod_3_.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ]
+        },
+        {
+            "info": {
+                "title": "Artwork-Styled Mario",
+                "author": "spah!",
+                "category": ["Modpack"],
+                "console": ["3DS"],
+                "description": "Note that I wrote Artwork-Styled Mario and not artwork-accurate since my artistic skills are...pretty average.",
+                "icon_index": 27,
+                "sheet_index": 0,
+                "last_updated": "Jan 16 2026",
+                "license": "CC0 1.0 Universal",
+                "version": "1.0"
+            },
+            "Artwork-Styled Mario (USA)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1603454",
+                    "output": "sdmc:/PM3DS/romfs_051ce.rar"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/romfs_051ce.rar",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/romfs_051ce.rar"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Artwork-Styled Mario (EUR)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1603454",
+                    "output": "sdmc:/PM3DS/romfs_051ce.rar"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/romfs_051ce.rar",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/romfs_051ce.rar"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Artwork-Styled Mario (JPN)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/dl/1603454",
+                    "output": "sdmc:/PM3DS/romfs_051ce.rar"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/romfs_051ce.rar",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/romfs_051ce.rar"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ]
+        },
+        {
+            "info": {
+                "title": "Infinite Jump & Hammer",
+                "author": "Shigu",
+                "category": ["Modpack"],
+                "console": ["3DS"],
+                "description": "Note that I wrote Infinite Jump & Hammer and not artwork-accurate since my artistic skills are...pretty average.",
+                "icon_index": 28,
+                "sheet_index": 0,
+                "last_updated": "Jan 16 2026",
+                "license": "CC0 1.0 Universal",
+                "version": "1.0"
+            },
+            "Infinite Jump & Hammer (USA)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/mods/646570",
+                    "output": "sdmc:/PM3DS/v2_d07c2.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/v2_d07c2.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/v2_d07c2.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Infinite Jump & Hammer (EUR)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/mods/646570",
+                    "output": "sdmc:/PM3DS/v2_d07c2.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/v2_d07c2.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/v2_d07c2.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ],
+            "Infinite Jump & Hammer (JPN)": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://gamebanana.com/mods/646570",
+                    "output": "sdmc:/PM3DS/v2_d07c2.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/v2_d07c2.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/v2_d07c2.zip"
+               },
+               {
+                  "type":"promptMessage",
+                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
+                  "count":1
+               }
+            ]
+        }        
     ]
 }

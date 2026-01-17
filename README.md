@@ -132,6 +132,9 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - [Shiny Dry Bones for Petey's Bossfight](https://gamebanana.com/mods/645191) by SmacAttac
 - [Classic Jump and Hammer Designs](https://gamebanana.com/mods/645152) by Flare
 - [Classic Enemy Designs](https://gamebanana.com/mods/645734) by JoeL.
+- [Beta Camera Angle](https://gamebanana.com/mods/646055) by Br123TT
+- [Artwork Styled Mario](https://gamebanana.com/mods/646479) by spah!
+- [Infinite Jump and Hammer Stickers](https://gamebanana.com/mods/646570) by Shigu
 </details>
 
 <details>
