@@ -1,5 +1,5 @@
 # Modern PM Modstores
-An online repository of community made mods for Paper Mario Sticker Star, Color Splash, The Origami King, and The Thousand Year Door Switch. Utilizes services created and maintained by [Universal Updater](https://github.com/Universal-Team/Universal-Updater) and [Homebrew App Store](https://github.com/fortheusers/hb-appstore)
+An online repository of community made mods for Paper Mario Sticker Star, Color Splash, The Origami King, and The Thousand Year Door Switch. Utilizes services created and maintained by [Universal Updater](https://github.com/Universal-Team/Universal-Updater), [Homebrew App Store](https://github.com/fortheusers/hb-appstore) and [Sphaira](https://github.com/ITotalJustice/sphaira)
 
 ![PM4 Store](images/PM4.png)
 ![PM5 Store](images/PM5.png)
@@ -22,10 +22,11 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - Open the HB App Store, and browse the games section. Follow the instructions for each mod as some may be standalone modpacks, or merge into a general folder
 
 #Switch
-- You Will Need [Atmosphere](https://github.com/atmosphere-nx/atmosphere/releases) and the [Homebrew App Store](https://github.com/fortheusers/hb-appstore) 
+- You Will Need [Atmosphere](https://github.com/atmosphere-nx/atmosphere/releases), [Homebrew App Store](https://github.com/fortheusers/hb-appstore) and [Sphaira](https://github.com/ITotalJustice/sphaira)
 - Download switch_KEEPMAINAPPSTORE.zip OR switch_MODSTOREONLY.zip from the PM62R source folder and extract it to your SD card. The switch_MODSTOREONLY.zip contains a new BGM. (BGM Does Not Play In Applet Mode)
 - The switch_KEEPMAINAPPSTORE.zip also contains the repo for the HB App Store, so mods will show alongside homebrew apps. To help make it easier to find mods, they will be located in the Games section.
 - Atmosphere's layered FS does not use a standard modloader, meaning all mods will use the same folder. BE ADVISED THAT SOME MODS MAY CLASH WITH OTHERS SO PLEASE READ THEIR DESCRIPTIONS
+- Large modpacks are only downloadable via Sphaira's github service. Open sphaira, press Y to open the menu, then select Menus, then github, and the mods will be located there.
 
 # Submitting Your Mods To The Repo
 
@@ -75,6 +76,9 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 <details>
     <summary>#Switch</summary>
 
+- IF YOUR MOD IS OVER 100 MiB, YOU MUST CREATE YOUR OWN GITHUB REPOSITORY AND UPLOAD YOUR MOD AS A RELEASE. THE ZIP MUST HAVE THE FULL FILEPATH EXACTLY HOW IT SHOULD BE ON YOUR SD CARD OTHERWISE IT WILL INSTALL INCORRECTLY. AFTER CREATING A RELEASE, [SUBMIT THE LINK TO THAT GITHUB PAGE HERE AS AN ISSUE WITH THE TITLE BEING "Submission MODNAME GAMENAME](https://github.com/Hunter-Xuman/Modern-PM-Modstores/issues/new)".
+
+- IF SUBMITTING A MOD UNDER 100 MiB CONTINUE BELOW
 - IF SUBMITTING A TOK MOD: Download TOK MOD INFO TEMPLATE.json, TOK MOD REPO TEMPLATE.json, and TOK MOD MANIFEST.install from the PM62R source folder
 - IF SUBMITTING A TTYD MOD: Download TTYDS MOD INFO TEMPLATE.json, TTYDS MOD REPO TEMPLATE.json, and TTYDS MOD MANIFEST.install from the PM62R source folder
 - After picking a game, Open the correct files in a text editor (preferably VS Code) and follow the text in each to change the files. There are a few very important things.
@@ -152,7 +156,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 
 
 - [Partners Never Miss](https://gamebanana.com/mods/422697) by HunterXuman
-- [Paper Mario The Origami King Refolded](https://gamebanana.com/mods/621463) by PMTOK Refolded Team
+- [Paper Mario The Origami King Refolded](https://gamebanana.com/mods/621463) by PMTOK Refolded Team *Sphaira Only*
 - [SMG4 Player Skin](https://gamebanana.com/mods/253526) by meme_man_not_ava
 </details>
 
@@ -167,6 +171,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - [Dry Koops](https://gamebanana.com/mods/626816) by Pedro Jose
 - [Saving In The Pit](https://gamebanana.com/mods/645583) by MrA2212
 - [Battle UI Speedup](https://gamebanana.com/mods/646375) by PistonMiner
+- [Playable Toadette](https://github.com/Acht05/Playable-Toadette-TTYDHD-) by Acht05 *Sphaira Only*
 </details>
 
 # Helpful Resources
