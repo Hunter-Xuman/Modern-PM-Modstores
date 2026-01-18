@@ -158,6 +158,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - [Partners Never Miss](https://gamebanana.com/mods/422697) by HunterXuman
 - [Paper Mario The Origami King Refolded](https://gamebanana.com/mods/621463) by PMTOK Refolded Team *Sphaira Only*
 - [SMG4 Player Skin](https://gamebanana.com/mods/253526) by meme_man_not_ava
+- [LGBTQ Legion of Stationery](https://gamebanana.com/mods/647054) by Flare, Bavario
 </details>
 
 <details>

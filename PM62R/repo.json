@@ -215,6 +215,24 @@
             "version": "1.0",
             "filesize": 657,
             "details": "Unlocks input earlier when rotating between different actions (jump/hammer/...)\nand when entering a command list (e.g. selecting which jump type/hammer type/item/special move/... to use),\nthus allowing faster move selection."
+        },
+        {
+            "updated": "01/18/2026",
+            "appCreated": "01/18/2026",
+            "app_dls": 0,
+            "screens": 3,
+            "category": "game",
+            "name": "[TOK]LGBTQLoS",
+            "license": "CC-4.0-BY-ND-NC",
+            "title": "[TOK] LGBTQ Legion of Stationery",
+            "url": "",
+            "description": "Retextures the Legion of Stationery with LGBTQ themes",
+            "author": "Flare, Bavario",
+            "changelog": "n/a",
+            "extracted": 30155854,
+            "version": "1.0",
+            "filesize": 30184617,
+            "details": "This first started as simple texture swaps done by Bavario in Bingle's Discord server then\nI decided to make these an actual mod so he made more texture swaps and we got this! Enjoy!",
         }
     ]
 }
