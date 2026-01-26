@@ -173,6 +173,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - [Saving In The Pit](https://gamebanana.com/mods/645583) by MrA2212
 - [Battle UI Speedup](https://gamebanana.com/mods/646375) by PistonMiner
 - [Playable Toadette](https://github.com/Acht05/Playable-Toadette-TTYDHD-) by Acht05 *Sphaira Only*
+- [Playable Doopliss](https://gamebanana.com/mods/613195) by Pedro_Jose *Sphaira Only*
 </details>
 
 # Helpful Resources
