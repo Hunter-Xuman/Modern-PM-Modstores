@@ -24,7 +24,8 @@
                 "sheet_index": 0,
                 "last_updated": "Dec 17th 2025",
                 "license": "CC BY-NC-ND 4.0",
-                "version": "v0.1.1"
+                "version": "v0.1.1",
+                "preinstallMessage": "Cleaning romfs folder..."
             },
             "Cleanup (USA)": [
                 {
@@ -59,7 +60,8 @@
                 "sheet_index": 0,
                 "last_updated": "Jan 26th 2025",
                 "license": "CC0 1.0 Universal",
-                "version": "v0.2.0"
+                "version": "v0.2.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "PM4-Challenge-Mode.zip (USA)": [
                 {
@@ -76,11 +78,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/PM4-Challenge-Mode.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "PM4-Challenge-Mode.zip (EUR)": [
@@ -98,11 +95,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/PM4-Challenge-Mode.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "PM4-Challenge-Mode.zip (JPN)": [
@@ -120,11 +112,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/PM4-Challenge-Mode.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -139,7 +126,8 @@
                 "sheet_index": 0,
                 "last_updated": "Apr 19th 2025",
                 "license": "CC BY-NC-ND 4.0",
-                "version": "v1"
+                "version": "v1",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "hidden_objects_unhidden.zip (USA)": [
                 {
@@ -156,11 +144,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/hidden_objects_unhidden.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "hidden_objects_unhidden.zip (EUR)": [
@@ -178,11 +161,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/hidden_objects_unhidden.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "hidden_objects_unhidden.zip (JPN)": [
@@ -200,11 +178,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/hidden_objects_unhidden.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -219,7 +192,8 @@
                 "sheet_index": 0,
                 "last_updated": "Aug 11th 2025",
                 "license": "CC BY-NC-ND 4.0",
-                "version": "v1"
+                "version": "v1",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "skippable_dialogue_mod_for_pmss.rar (USA)": [
                 {
@@ -236,11 +210,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/skippable_dialogue_mod_for_pmss.rar"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "skippable_dialogue_mod_for_pmss.rar (EUR)": [
@@ -258,11 +227,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/skippable_dialogue_mod_for_pmss.rar"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "skippable_dialogue_mod_for_pmss.rar (JPN)": [
@@ -280,11 +244,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/skippable_dialogue_mod_for_pmss.rar"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -299,7 +258,8 @@
                 "sheet_index": 0,
                 "last_updated": "Feb 25th 2025",
                 "license": "CC BY-NC-ND 4.0",
-                "version": "2"
+                "version": "2.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Mario Animations Revamp (USA)": [
                 {
@@ -316,11 +276,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mario Animations Revamp (EUR)": [
@@ -338,11 +293,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mario Animations Revamp (JPN)": [
@@ -360,11 +310,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mario Animations Revamp (Smooth) (USA)": [
@@ -382,11 +327,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mario Animations Revamp (Smooth) (EUR)": [
@@ -404,11 +344,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mario Animations Revamp (Smooth) (JPN)": [
@@ -426,11 +361,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mario Animations Revamp (Extra back animations) (USA)": [
@@ -448,11 +378,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mario Animations Revamp (Extra back animations) (EUR)": [
@@ -470,11 +395,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mario Animations Revamp (Extra back animations) (JPN)": [
@@ -492,11 +412,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mario Animations Revamp (TTYD Battle animations) (USA)": [
@@ -514,11 +429,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mario Animations Revamp (TTYD Battle animations) (EUR)": [
@@ -536,11 +446,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mario Animations Revamp (TTYD Battle animations) (JPN)": [
@@ -558,11 +463,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Revamp (Smooth) (Extra back animations) (USA)": [
@@ -580,11 +480,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Revamp (Smooth) (Extra back animations) (EUR)": [
@@ -602,11 +497,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Revamp (Smooth) (Extra back animations) (JPN)": [
@@ -624,11 +514,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Revamp (Smooth) (TTYD Battle animations) (USA)": [
@@ -646,11 +531,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Revamp (Smooth) (TTYD Battle animations) (EUR)": [
@@ -668,11 +548,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Revamp (Smooth) (TTYD Battle animations) (JPN)": [
@@ -690,11 +565,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Revamp (Extra back animations) (TTYD Battle animations) (USA)": [
@@ -712,11 +582,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Revamp (Extra back animations) (TTYD Battle animations) (EUR)": [
@@ -734,11 +599,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Revamp (Extra back animations) (TTYD Battle animations) (JPN)": [
@@ -756,11 +616,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "(Extra back animations) (Smooth) (TTYD Battle animations) (USA)": [
@@ -778,11 +633,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "(Extra back animations) (Smooth) (TTYD Battle animations) (EUR)": [
@@ -800,11 +650,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "(Extra back animations) (Smooth) (TTYD Battle animations) (JPN)": [
@@ -822,11 +667,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -841,7 +681,8 @@
                 "sheet_index": 0,
                 "last_updated": "June 8th 2025",
                 "license": "CC0 1.0 Universal",
-                "version": "v1"
+                "version": "v1",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "obnoxiously_high_stats.zip (USA)": [
                 {
@@ -858,11 +699,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/obnoxiously_high_stats.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "obnoxiously_high_stats.zip (EUR)": [
@@ -880,11 +716,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/obnoxiously_high_stats.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "obnoxiously_high_stats.zip (JPN)": [
@@ -902,11 +733,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/obnoxiously_high_stats.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -921,7 +747,8 @@
                 "sheet_index": 0,
                 "last_updated": "Mar 14th 2025",
                 "license": "CC0 1.0 Universal",
-                "version": "v2"
+                "version": "v2",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "paperluigiupdated_2e6e6.zip (USA)": [
                 {
@@ -938,11 +765,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/paperluigiupdated_2e6e6.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "paperluigiupdated_2e6e6.zip (EUR)": [
@@ -960,11 +782,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/paperluigiupdated_2e6e6.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "paperluigiupdated_2e6e6.zip (JPN)": [
@@ -982,11 +799,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/paperluigiupdated_2e6e6.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -1001,7 +813,8 @@
                 "sheet_index": 0,
                 "last_updated": "Mar 10th 2025",
                 "license": "CC0 1.0 Universal",
-                "version": "v1"
+                "version": "v1",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "pmtok_mario_face_d5596.zip (USA)": [
                 {
@@ -1018,11 +831,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/pmtok_mario_face_d5596.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "pmtok_mario_face_d5596.zip (EUR)": [
@@ -1040,11 +848,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/pmtok_mario_face_d5596.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "pmtok_mario_face_d5596.zip (JPN)": [
@@ -1062,11 +865,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/pmtok_mario_face_d5596.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -1081,7 +879,8 @@
                 "sheet_index": 0,
                 "last_updated": "Aug 16th 2024",
                 "license": "CC0 1.0 Universal",
-                "version": "v1"
+                "version": "v1",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "the_green_screen_battlemap.zip (USA)": [
                 {
@@ -1098,11 +897,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/the_green_screen_battlemap.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "the_green_screen_battlemap.zip (EUR)": [
@@ -1120,11 +914,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/the_green_screen_battlemap.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "the_green_screen_battlemap.zip (JPN)": [
@@ -1142,11 +931,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/the_green_screen_battlemap.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -1161,7 +945,8 @@
                 "sheet_index": 0,
                 "last_updated": "Jul 22nd 2022",
                 "license": "CC0 1.0 Universal",
-                "version": "v1"
+                "version": "v1",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "ai_sticker_star.zip (USA)": [
                 {
@@ -1178,11 +963,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ai_sticker_star.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -1197,7 +977,8 @@
                 "sheet_index": 0,
                 "last_updated": "Jul 30 2023",
                 "license": "CC0 1.0 Universal",
-                "version": "v1"
+                "version": "v1",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "No Defense (USA)": [
                 {
@@ -1214,11 +995,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/royal_sticker_boss_defense_mod_no_defense_.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "No Defense (EUR)": [
@@ -1236,11 +1012,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/royal_sticker_boss_defense_mod_no_defense_.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "No Defense (JPN)": [
@@ -1258,11 +1029,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/royal_sticker_boss_defense_mod_no_defense_.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Shiny Defense (USA)": [
@@ -1280,11 +1046,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/royal_sticker_boss_defense_mod_shiny_defense_.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Shiny Defense (EUR)": [
@@ -1302,11 +1063,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/royal_sticker_boss_defense_mod_shiny_defense_.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Shiny Defense (JPN)": [
@@ -1324,11 +1080,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/royal_sticker_boss_defense_mod_shiny_defense_.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
          },
@@ -1343,7 +1094,8 @@
                 "sheet_index": 0,
                 "last_updated": "Aug 22nd 2025",
                 "license": "CC0 1.0 Universal",
-                "version": "v4"
+                "version": "v4",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Old damage animation (USA)": [
                 {
@@ -1360,11 +1112,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Old damage animation (EUR)": [
@@ -1382,11 +1129,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Old damage animation (JPN)": [
@@ -1404,11 +1146,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/uncrumbled_damage_animation_21779.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
          },
@@ -1423,7 +1160,8 @@
                 "sheet_index": 0,
                 "last_updated": "Jul 2 2024",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Red and Blue 5 and 10 Coins (USA)": [
                 {
@@ -1440,11 +1178,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/red_and_blue_5_and_10_coin.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Red and Blue 5 and 10 Coins (EUR)": [
@@ -1462,11 +1195,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/red_and_blue_5_and_10_coin.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Red and Blue 5 and 10 Coins (JPN)": [
@@ -1484,11 +1212,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/red_and_blue_5_and_10_coin.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
          },
@@ -1503,7 +1226,8 @@
                 "sheet_index": 0,
                 "last_updated": "Aug 5 2025",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Ooooo (Kersti Mod) (USA)": [
                 {
@@ -1520,11 +1244,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ooooo_mod.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Ooooo (Kersti Mod) (EUR)": [
@@ -1542,11 +1261,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ooooo_mod.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Ooooo (Kersti Mod) (JPN)": [
@@ -1564,11 +1278,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ooooo_mod.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
          },
@@ -1583,7 +1292,8 @@
                 "sheet_index": 0,
                 "last_updated": "Mar 20 2024",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Kurt Angle Stare Goomba Boss (USA)": [
                 {
@@ -1600,11 +1310,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/romfs_f1e3f.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Kurt Angle Stare Goomba Boss (EUR)": [
@@ -1622,11 +1327,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/romfs_f1e3f.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Kurt Angle Stare Goomba Boss (JPN)": [
@@ -1644,11 +1344,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/romfs_f1e3f.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
          },
@@ -1663,7 +1358,8 @@
                 "sheet_index": 0,
                 "last_updated": "Dec 2 2023",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Cursed BattleMap Snow (USA)": [
                 {
@@ -1680,11 +1376,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/cursed_battlemap_snow.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Cursed BattleMap Snow (EUR)": [
@@ -1702,11 +1393,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/cursed_battlemap_snow.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Cursed BattleMap Snow (JPN)": [
@@ -1724,11 +1410,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/cursed_battlemap_snow.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
          },
@@ -1743,7 +1424,8 @@
                 "sheet_index": 0,
                 "last_updated": "Nov 14 2023",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Retro Goomba (USA)": [
                 {
@@ -1760,11 +1442,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/retro_goomba.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Retro Goomba (EUR)": [
@@ -1782,11 +1459,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/retro_goomba.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Retro Goomba (JPN)": [
@@ -1804,11 +1476,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/retro_goomba.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
          },
@@ -1823,7 +1490,8 @@
                 "sheet_index": 0,
                 "last_updated": "Jan 1 2026",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Skip The Intro (USA)": [
                 {
@@ -1840,11 +1508,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/skipintro_27695.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Skip The Intro (EUR)": [
@@ -1862,11 +1525,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/skipintro_27695.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Skip The Intro (JPN)": [
@@ -1884,11 +1542,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/skipintro_27695.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
          },
@@ -1903,7 +1556,8 @@
                 "sheet_index": 0,
                 "last_updated": "Dec 28th 2022",
                 "license": "CC0 1.0 Universal",
-                "version": "v1.0"
+                "version": "v1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Rogueport Theme (USA)": [
                {
@@ -1920,11 +1574,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/rougeport_over_decalburg.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Rogueport Theme (EUR)": [
@@ -1942,11 +1591,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/rougeport_over_decalburg.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Rogueport Theme (JPN)": [
@@ -1964,15 +1608,10 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/rougeport_over_decalburg.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
-        },
-                 {
+         },
+         {
             "info": {
                 "title": "Every Paper Mario Title Theme",
                 "author": "Sonic Gamer",
@@ -1983,7 +1622,8 @@
                 "sheet_index": 0,
                 "last_updated": "Nov 20th 2024",
                 "license": "CC0 1.0 Universal",
-                "version": "v1.0"
+                "version": "v1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Paper Mario (USA)": [
                 {
@@ -2000,11 +1640,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/n64_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Paper Mario (EUR)": [
@@ -2022,11 +1657,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/n64_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Paper Mario (JPN)": [
@@ -2044,11 +1674,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/n64_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mushroom Kingdom 2024 (USA)": [
@@ -2066,11 +1691,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ttyd_greetings_from_the_mushroom_kingdom.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mushroom Kingdom 2024 (EUR)": [
@@ -2088,11 +1708,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ttyd_greetings_from_the_mushroom_kingdom.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Mushroom Kingdom 2024 (JPN)": [
@@ -2110,11 +1725,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ttyd_greetings_from_the_mushroom_kingdom.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "The Thousand Year Door (USA)": [
@@ -2132,11 +1742,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ttyd_og_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "The Thousand Year Door (EUR)": [
@@ -2154,11 +1759,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ttyd_og_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "The Thousand Year Door (JPN)": [
@@ -2176,11 +1776,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ttyd_og_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "The Thousand Year Door 2024 (USA)": [
@@ -2198,11 +1793,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ttyd_2024_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "The Thousand Year Door 2024 (EUR)": [
@@ -2220,11 +1810,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ttyd_2024_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "The Thousand Year Door 2024 (JPN)": [
@@ -2242,11 +1827,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ttyd_2024_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Super Paper Mario (USA)": [
@@ -2264,11 +1844,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/spm_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Super Paper Mario (EUR)": [
@@ -2286,11 +1861,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/spm_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Super Paper Mario (JPN)": [
@@ -2308,11 +1878,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/spm_title_screen.7z.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Color Splash (USA)": [
@@ -2330,11 +1895,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/colour_splash_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Colour Splash (EUR)": [
@@ -2352,11 +1912,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/colour_splash_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Color Splash (JPN)": [
@@ -2374,11 +1929,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/colour_splash_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "The Origami King (USA)": [
@@ -2396,11 +1946,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/tok_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "The Origami King (EUR)": [
@@ -2418,11 +1963,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/tok_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "The Origami King (JPN)": [
@@ -2440,11 +1980,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/tok_title_screen.7z"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
          },
@@ -2459,7 +1994,8 @@
                 "sheet_index": 0,
                 "last_updated": "Dec 30 2022",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "March Ahead (Paper Mario 64) over Grassland Theme (USA)": [
                 {
@@ -2476,11 +2012,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/march_ahead_over_grassland.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "March Ahead (Paper Mario 64) over Grassland Theme (EUR)": [
@@ -2498,11 +2029,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/march_ahead_over_grassland.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "March Ahead (Paper Mario 64) over Grassland Theme (JPN)": [
@@ -2520,11 +2046,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/march_ahead_over_grassland.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
          },
@@ -2539,7 +2060,8 @@
                 "sheet_index": 0,
                 "last_updated": "Dec 30 2022",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "TTYD Battle Theme over Normal Battle Theme (USA)": [
                {
@@ -2556,11 +2078,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ttyd_battle_Theme_over_normal_battle_Theme.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "TTYD Battle Theme over Normal Battle Theme (EUR)": [
@@ -2578,11 +2095,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ttyd_battle_Theme_over_normal_battle_Theme.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "TTYD Battle Theme over Normal Battle Theme (JPN)": [
@@ -2600,11 +2112,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/ttyd_battle_Theme_over_normal_battle_Theme.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
          },
@@ -2619,7 +2126,8 @@
                 "sheet_index": 0,
                 "last_updated": "Jan 9 2026",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Enemy Stickers (USA)": [
                 {
@@ -2636,11 +2144,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/enemy_stickers_c9438.rar"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Enemy Stickers (EUR)": [
@@ -2658,11 +2161,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/enemy_stickers_c9438.rar"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Enemy Stickers (JPN)": [
@@ -2680,11 +2178,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/enemy_stickers_c9438.rar"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -2699,7 +2192,8 @@
                 "sheet_index": 0,
                 "last_updated": "Jan 9 2026",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Shiny Dry Bones for Petey's bossfight (USA)": [
                 {
@@ -2716,11 +2210,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/petey_spittin_shiny_bones.rar"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Shiny Dry Bones for Petey's bossfight (EUR)": [
@@ -2738,11 +2227,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/petey_spittin_shiny_bones.rar"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Shiny Dry Bones for Petey's bossfight (JPN)": [
@@ -2760,11 +2244,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/petey_spittin_shiny_bones.rar"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -2779,7 +2258,8 @@
                 "sheet_index": 0,
                 "last_updated": "Jan 9 2026",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Classic Jump and Hammer designs (USA)": [
                 {
@@ -2816,7 +2296,8 @@
                 "sheet_index": 0,
                 "last_updated": "Jan 14 2026",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Classic Enemy Designs (USA)": [
                 {
@@ -2833,11 +2314,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/classic_enemies_e4140.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Classic Enemy Designs (EUR)": [
@@ -2855,11 +2331,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/classic_enemies_e4140.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Classic Enemy Designs (JPN)": [
@@ -2877,11 +2348,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/classic_enemies_e4140.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -2896,7 +2362,8 @@
                 "sheet_index": 0,
                 "last_updated": "Jan 21 2026",
                 "license": "CC0 1.0 Universal",
-                "version": "2.0"
+                "version": "2.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Beta Camera Angle (USA)": [
                 {
@@ -2913,11 +2380,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/prototype_battle_camera_mod_f39aa.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Beta Camera Angle (EUR)": [
@@ -2935,11 +2397,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/prototype_battle_camera_mod_f39aa.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Beta Camera Angle (JPN)": [
@@ -2957,11 +2414,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/prototype_battle_camera_mod_f39aa.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -2976,7 +2428,8 @@
                 "sheet_index": 0,
                 "last_updated": "Jan 16 2026",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Artwork-Styled Mario (USA)": [
                 {
@@ -2993,11 +2446,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/romfs_051ce.rar"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Artwork-Styled Mario (EUR)": [
@@ -3015,11 +2463,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/romfs_051ce.rar"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Artwork-Styled Mario (JPN)": [
@@ -3037,11 +2480,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/romfs_051ce.rar"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
@@ -3056,7 +2494,8 @@
                 "sheet_index": 0,
                 "last_updated": "Jan 16 2026",
                 "license": "CC0 1.0 Universal",
-                "version": "1.0"
+                "version": "1.0",
+                "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
             "Infinite Jump & Hammer (USA)": [
                 {
@@ -3073,11 +2512,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/v2_d07c2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Infinite Jump & Hammer (EUR)": [
@@ -3095,11 +2529,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/v2_d07c2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ],
             "Infinite Jump & Hammer (JPN)": [
@@ -3117,11 +2546,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/v2_d07c2.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         }        
