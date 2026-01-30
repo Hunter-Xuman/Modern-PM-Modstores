@@ -4,12 +4,13 @@
                 "author": "YOUR NAME HERE",
                 "category": ["TYPE OF MOD HERE. IF MODPACK, PUT MODPACK"],
                 "console": ["3DS"],
-                "description": "DESCRIPTION OF YOUR MOD HERE. USE \n FOR PAGE BREAKS",
+                "description": "DESCRIPTION OF YOUR MOD HERE.",
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "LASTEST DATE HERE",
+                "last_updated": "LASTEST DATE AND TIME HERE IN THE FOLLOWING FORMAT: YYYY-MM-DD at 00:00",
                 "license": "CC0 1.0 Universal",
-                "version": "MOD VERSION"
+                "version": "MOD VERSION",
+                "preinstallMessage": "CUSTOM MESSAGE FOR USERS BEFORE INSTALL"
             },
             "NAME OF YOUR MOD HERE (USA)": [
                 {
@@ -25,12 +26,7 @@
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/PM4-Challenge-Mode.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
+                  "file":"sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE"
                }
             ],
             "NAME OF YOUR MOD HERE (EUR)": [
@@ -47,12 +43,7 @@
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/PM4-Challenge-Mode.zip"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
+                  "file":"sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE"
                }
             ],
             "NAME OF YOUR MOD HERE (JPN)": [
@@ -70,11 +61,6 @@
                {
                   "type":"deleteFile",
                   "file":"sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE"
-               },
-               {
-                  "type":"promptMessage",
-                  "message":"Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!",
-                  "count":1
                }
             ]
         },
