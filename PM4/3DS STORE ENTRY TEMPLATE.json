@@ -13,16 +13,16 @@
                 "preinstallMessage": "CUSTOM MESSAGE FOR USERS BEFORE INSTALL"
             },
             "NAME OF YOUR MOD HERE (USA)": [
-                {
-                    "type": "downloadFile",
-                    "file": "LINK TO YOUR MOD DOWNLOAD HERE",
-                    "output": "sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE",
-                  "input":"romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
+               {
+                 "type": "downloadFile",
+                 "file": "LINK TO YOUR MOD DOWNLOAD HERE",
+                 "output": "sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE"
+               },
+               {
+                 "type":"extractFile",
+                 "file":"sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE",
+                 "input":"romfs/",
+                 "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
                },
                {
                   "type":"deleteFile",
@@ -30,16 +30,16 @@
                }
             ],
             "NAME OF YOUR MOD HERE (EUR)": [
-                {
-                    "type": "downloadFile",
-                    "file": "LINK TO YOUR MOD DOWNLOAD HERE",
-                    "output": "sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE",
-                  "input":"romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
+               {
+                 "type": "downloadFile",
+                 "file": "LINK TO YOUR MOD DOWNLOAD HERE",
+                 "output": "sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE"
+               },
+               {
+                 "type":"extractFile",
+                 "file":"sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE",
+                 "input":"romfs/",
+                 "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
                },
                {
                   "type":"deleteFile",
@@ -47,16 +47,16 @@
                }
             ],
             "NAME OF YOUR MOD HERE (JPN)": [
-                {
-                    "type": "downloadFile",
-                    "file": "LINK TO YOUR MOD DOWNLOAD HERE",
-                    "output": "sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE",
-                  "input":"romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
+               {
+                 "type": "downloadFile",
+                 "file": "LINK TO YOUR MOD DOWNLOAD HERE",
+                 "output": "sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE"
+               },
+               {
+                 "type":"extractFile",
+                 "file":"sdmc:/PM3DS/NAME OF YOUR ZIP OR 7Z FILE",
+                 "input":"romfs/",
+                 "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
                },
                {
                   "type":"deleteFile",
