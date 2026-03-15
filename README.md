@@ -173,6 +173,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - [Saving In The Pit](https://gamebanana.com/mods/645583) by MrA2212
 - [Battle UI Speedup](https://gamebanana.com/mods/646375) by PistonMiner
 - [W, L and Gold Emblems at the start](https://gamebanana.com/mods/602901) by Acht05
+- [Paper Mario TTYD Retextured-Edition](https://gamebanana.com/mods/645769) by Nagisa/Panda
 - [Playable Toadette](https://github.com/Acht05/Playable-Toadette-TTYDHD-) by Acht05 *Sphaira Only*
 - [Playable Doopliss](https://gamebanana.com/mods/613195) by Pedro_Jose *Sphaira Only*
 - [Encore](https://gamebanana.com/games/19143) by Tristify *Sphaira Only*

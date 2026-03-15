@@ -251,6 +251,24 @@
             "version": "2.0",
             "filesize": 58724,
             "details": "A mod I made in like two seconds cause I saw some people asking for it,\ngives you all three emblem badges at the very beginning of the game.\nIt also removes the L Emblem from the Poshley Sanctum, the W Emblem from Charlieton's shop\nand the Gold Medal from 100% completing the game, instead you get an Ultra Mushroom, a Jelly Ultra and a Whacka Bump respectively. "
+        },
+        {
+            "updated": "01/12/2026",
+            "appCreated": "01/12/2026",
+            "app_dls": 0,
+            "screens": 3,
+            "category": "game",
+            "name": "[TTYD]RetexturedEdition",
+            "license": "CC-4.0-BY-ND-NC",
+            "title": "[TTYD] Retextured",
+            "url": "",
+            "description": "This mod changes many textures in different areas so that the game feels different for a second playthrough.",
+            "author": "Nagisa/Panda",
+            "changelog": "n/a",
+            "extracted": 85555293,
+            "version": "2.0",
+            "filesize": 85510487,
+            "details": "Currently not every area has changed!\nAnd it's a beta so overlooked things could occur.\nCompatible with other mods like Paper Mario Encore, Paper Luigi and so on."
         }
     ]
 }
