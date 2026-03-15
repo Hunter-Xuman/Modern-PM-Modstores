@@ -233,6 +233,24 @@
             "version": "1.0",
             "filesize": 30184617,
             "details": "This first started as simple texture swaps done by Bavario in Bingle's Discord server then\nI decided to make these an actual mod so he made more texture swaps and we got this! Enjoy!"
+        },
+        {
+            "updated": "06/25/2025",
+            "appCreated": "03/01/2026",
+            "app_dls": 0,
+            "screens": 3,
+            "category": "game",
+            "name": "[TOK]LGBTQLoS",
+            "license": "CC-4.0-BY-ND-NC",
+            "title": "[TTYD] W, L and Gold Emblems at the start",
+            "url": "",
+            "description": "Adds the 3 costume emblems at the start of the game.",
+            "author": "Flare, Bavario",
+            "changelog": "n/a",
+            "extracted": 59113,
+            "version": "2.0",
+            "filesize": 58724,
+            "details": "A mod I made in like two seconds cause I saw some people asking for it,\ngives you all three emblem badges at the very beginning of the game.\nIt also removes the L Emblem from the Poshley Sanctum, the W Emblem from Charlieton's shop\nand the Gold Medal from 100% completing the game, instead you get an Ultra Mushroom, a Jelly Ultra and a Whacka Bump respectively. "
         }
     ]
 }
