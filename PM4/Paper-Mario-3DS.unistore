@@ -9,7 +9,7 @@
         "sheetURL": "https://github.com/Hunter-Xuman/Paper-Mario-3DS-Unistore/raw/main/PM4/Paper-Mario-3DS.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 15,
+        "revision": 16,
         "version": 3
     },
     "storeContent": [
@@ -2555,10 +2555,10 @@
                 "author": "Darxoon",
                 "category": ["Modpack"],
                 "console": ["3DS"],
-                "description": "Turns the Run button into a Do nothing button in fights.",
+                "description": "Instead of trying to run away when pressing the Run button, Mario now simply skips the turn.",
                 "icon_index": 29,
                 "sheet_index": 0,
-                "last_updated": "2026-05-9 at 00:38",
+                "last_updated": "2026-05-09 at 00:38",
                 "license": "CC0 1.0 Universal",
                 "version": "1.0",
                 "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
@@ -2566,23 +2566,53 @@
             "Disable Run Button (USA)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1607005",
-                    "output": "sdmc:/luma/titles/00040000000A5E00/romfs/Script/Battle/Player/btl_mario.bin"
-                }
+                    "file": "https://gamebanana.com/dl/1709330",
+                    "output": "sdmc:/PM3DS/disabled_run_button.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/disabled_run_button.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/Script/Battle/Player/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/disabled_run_button.zip"
+               }
             ],
             "Disable Run Button (EUR)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1607005",
-                    "output": "sdmc:/luma/titles/00040000000A5F00/romfs/Script/Battle/Player/btl_mario.bin"
-                }
+                    "file": "https://gamebanana.com/dl/1709330",
+                    "output": "sdmc:/PM3DS/disabled_run_button.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/disabled_run_button.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/Script/Battle/Player/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/disabled_run_button.zip"
+               }
             ],
             "Disable Run Button (JPN)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1607005",
-                    "output": "sdmc:/luma/titles/00040000000A5D00/romfs/Script/Battle/Player/btl_mario.bin"
-                }
+                    "file": "https://gamebanana.com/dl/1709330",
+                    "output": "sdmc:/PM3DS/disabled_run_button.zip"
+                },
+                {
+                  "type":"extractFile",
+                  "file":"sdmc:/PM3DS/disabled_run_button.zip",
+                  "input":"romfs/",
+                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/Script/Battle/Player/"
+               },
+               {
+                  "type":"deleteFile",
+                  "file":"sdmc:/PM3DS/disabled_run_button.zip"
+               }
             ]
         },
          {
