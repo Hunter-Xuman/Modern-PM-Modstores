@@ -1,0 +1,8 @@
+{
+	"repos": [		
+		{	"name": "PM62R Mods",
+			"url": "https://raw.githubusercontent.com/Hunter-Xuman/Modern-PM-Modstores/refs/heads/main/PM62R",
+			"enabled": true
+		}
+	]
+}
