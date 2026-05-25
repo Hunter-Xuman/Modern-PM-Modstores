@@ -179,6 +179,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - [Playable Toadette](https://github.com/Acht05/Playable-Toadette-TTYDHD-) by Acht05 *Sphaira Only*
 - [Playable Doopliss](https://gamebanana.com/mods/613195) by Pedro_Jose *Sphaira Only*
 - [Encore](https://gamebanana.com/games/19143) by Tristify *Sphaira Only*
+- [Beta Style Mario](https://gamebanana.com/mods/674290) by JacktheHack101
 </details>
 
 # Helpful Resources

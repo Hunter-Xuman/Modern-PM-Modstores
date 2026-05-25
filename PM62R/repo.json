@@ -269,6 +269,24 @@
             "version": "2.0",
             "filesize": 85510487,
             "details": "Currently not every area has changed!\nAnd it's a beta so overlooked things could occur.\nCompatible with other mods like Paper Mario Encore, Paper Luigi and so on."
+        },
+                {
+            "updated": "05/03/2026",
+            "appCreated": "05/03/2026",
+            "app_dls": 0,
+            "screens": 3,
+            "category": "game",
+            "name": "[TTYD]BetaStyledMario",
+            "license": "CC-4.0-BY-ND-NC",
+            "title": "[TTYD] Beta Style Mario",
+            "url": "https://gamebanana.com/mods/674290",
+            "description": "Gives Mario his TTYD beta look",
+            "author": "JacktheHack101",
+            "changelog": "n/a",
+            "extracted": 3006849,
+            "version": "1.0",
+            "filesize": 3004782,
+            "details": "might tweak and polish later... or not. made a skin based off the beta screenshots in the artbook.\nfeel free to transform this to your own, theres PLENTY of things i couldve done better, that i probably wont do.\nif your good at art or dont like part of the mod... change it yourself!\none day ill get my paper mario 64 remake...\nFiles edited:\n MAR.bfres.zst\n- MAR_Back.bfres.zst\n- MAR_Bellows.bfres.zst\n- MAR_Front.bfres.zst\n- MAR_HammerFB.bfres.zst\n- MAR_Head.bfres.zst"
         }
     ]
 }
