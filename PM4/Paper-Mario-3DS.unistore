@@ -9,7 +9,7 @@
         "sheetURL": "https://github.com/Hunter-Xuman/Paper-Mario-3DS-Unistore/raw/main/PM4/Paper-Mario-3DS.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 16,
+        "revision": 17,
         "version": 3
     },
     "storeContent": [
@@ -256,417 +256,213 @@
                 "description": "A Mod for Paper Mario Sticker Star that changes Mario's animations.\nThis mod download allows for a few extra things too.\nChoose between smooth or choppy animations\nNew back angle animations\nTTYD Battle animations.",
                 "icon_index": 4,
                 "sheet_index": 0,
-                "last_updated": "2025-02-25 at 00:00",
+                "last_updated": "2025-03-11 at 13:50",
                 "license": "CC BY-NC-ND 4.0",
-                "version": "2.0",
+                "version": "3.0",
                 "preinstallMessage": "Make sure you enable Game Patching in\nthe Luma Configuration Menu for this to work!"
             },
-            "Mario Animations Revamp (USA)": [
+            "Mario Animations Revamp (Choppy) (USA)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
+                    "file": "https://gamebanana.com/dl/1644720",
+                    "output": "sdmc:/PM3DS/mario_revamp_94cbf.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"1 Mario Animations Revamp/00040000000A5E00/romfs/",
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip",
+                  "input":"Mario Revamp/Animations revamp/Choppy/romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip"
                }
             ],
-            "Mario Animations Revamp (EUR)": [
+            "Mario Animations Revamp (Choppy) (EUR)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
+                    "file": "https://gamebanana.com/dl/1644720",
+                    "output": "sdmc:/PM3DS/mario_revamp_94cbf.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"1 Mario Animations Revamp/00040000000A5E00/romfs/",
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip",
+                  "input":"Mario Revamp/Animations revamp/Choppy/romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip"
                }
             ],
-            "Mario Animations Revamp (JPN)": [
+            "Mario Animations Revamp (Choppy) (JPN)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
+                    "file": "https://gamebanana.com/dl/1644720",
+                    "output": "sdmc:/PM3DS/mario_revamp_94cbf.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"1 Mario Animations Revamp/00040000000A5E00/romfs/",
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip",
+                  "input":"Mario Revamp/Animations revamp/Choppy/romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip"
                }
             ],
             "Mario Animations Revamp (Smooth) (USA)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
+                    "file": "https://gamebanana.com/dl/1644720",
+                    "output": "sdmc:/PM3DS/mario_revamp_94cbf.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"2 Mario Animations Revamp (Smooth)/00040000000A5E00/romfs/",
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip",
+                  "input":"Mario Revamp/Animations revamp/Smooth/romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip"
                }
             ],
             "Mario Animations Revamp (Smooth) (EUR)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
+                    "file": "https://gamebanana.com/dl/1644720",
+                    "output": "sdmc:/PM3DS/mario_revamp_94cbf.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"2 Mario Animations Revamp (Smooth)/00040000000A5E00/romfs/",
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip",
+                  "input":"Mario Revamp/Animations revamp/Smooth/romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip"
                }
             ],
             "Mario Animations Revamp (Smooth) (JPN)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
+                    "file": "https://gamebanana.com/dl/1644720",
+                    "output": "sdmc:/PM3DS/mario_revamp_94cbf.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"2 Mario Animations Revamp (Smooth)/00040000000A5E00/romfs/",
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip",
+                  "input":"Mario Revamp/Animations revamp/Smooth/romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip"
                }
             ],
-            "Mario Animations Revamp (Extra back animations) (USA)": [
+            "Extra back animations (USA)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
+                    "file": "https://gamebanana.com/dl/1644720",
+                    "output": "sdmc:/PM3DS/mario_revamp_94cbf.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"3 Mario Animations Revamp (Extra back animations)/00040000000A5E00/romfs/",
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip",
+                  "input":"Mario Revamp/Extra back animations/romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip"
                }
             ],
-            "Mario Animations Revamp (Extra back animations) (EUR)": [
+            "Extra back animations (EUR)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
+                    "file": "https://gamebanana.com/dl/1644720",
+                    "output": "sdmc:/PM3DS/mario_revamp_94cbf.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"3 Mario Animations Revamp (Extra back animations)/00040000000A5E00/romfs/",
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip",
+                  "input":"Mario Revamp/Extra back animations/romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip"
                }
             ],
-            "Mario Animations Revamp (Extra back animations) (JPN)": [
+            "Extra back animations (JPN)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
+                    "file": "https://gamebanana.com/dl/1644720",
+                    "output": "sdmc:/PM3DS/mario_revamp_94cbf.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"3 Mario Animations Revamp (Extra back animations)/00040000000A5E00/romfs/",
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip",
+                  "input":"Mario Revamp/Extra back animations/romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip"
                }
             ],
-            "Mario Animations Revamp (TTYD Battle animations) (USA)": [
+            "64 & TTYD Battle animations (USA)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
+                    "file": "https://gamebanana.com/dl/1644720",
+                    "output": "sdmc:/PM3DS/mario_revamp_94cbf.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"4 Mario Animations Revamp (TTYD Battle animations)/00040000000A5E00/romfs/",
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip",
+                  "input":"Mario Revamp/64 & TTYD battle animations/romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip"
                }
             ],
-            "Mario Animations Revamp (TTYD Battle animations) (EUR)": [
+            "64 & TTYD Battle animations (EUR)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
+                    "file": "https://gamebanana.com/dl/1644720",
+                    "output": "sdmc:/PM3DS/mario_revamp_94cbf.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"4 Mario Animations Revamp (TTYD Battle animations)/00040000000A5E00/romfs/",
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip",
+                  "input":"Mario Revamp/64 & TTYD battle animations/romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip"
                }
             ],
-            "Mario Animations Revamp (TTYD Battle animations) (JPN)": [
+            "64 & TTYD Battle animations (JPN)": [
                 {
                     "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
+                    "file": "https://gamebanana.com/dl/1644720",
+                    "output": "sdmc:/PM3DS/mario_revamp_94cbf.zip"
                 },
                 {
                   "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"4 Mario Animations Revamp (TTYD Battle animations)/00040000000A5E00/romfs/",
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip",
+                  "input":"Mario Revamp/64 & TTYD battle animations/romfs/",
                   "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
                },
                {
                   "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               }
-            ],
-            "Revamp (Smooth) (Extra back animations) (USA)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"5 Mario Animations Revamp (Smooth) (Extra back animations)/00040000000A5E00/romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               }
-            ],
-            "Revamp (Smooth) (Extra back animations) (EUR)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"5 Mario Animations Revamp (Smooth) (Extra back animations)/00040000000A5E00/romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               }
-            ],
-            "Revamp (Smooth) (Extra back animations) (JPN)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"5 Mario Animations Revamp (Smooth) (Extra back animations)/00040000000A5E00/romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               }
-            ],
-            "Revamp (Smooth) (TTYD Battle animations) (USA)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"6 Mario Animations Revamp (Smooth) (TTYD Battle animations)/00040000000A5E00/romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               }
-            ],
-            "Revamp (Smooth) (TTYD Battle animations) (EUR)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"6 Mario Animations Revamp (Smooth) (TTYD Battle animations)/00040000000A5E00/romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               }
-            ],
-            "Revamp (Smooth) (TTYD Battle animations) (JPN)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"6 Mario Animations Revamp (Smooth) (TTYD Battle animations)/00040000000A5E00/romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               }
-            ],
-            "Revamp (Extra back animations) (TTYD Battle animations) (USA)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"7 Mario Animations Revamp (Extra back animations) (TTYD Battle animations)/00040000000A5E00/romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               }
-            ],
-            "Revamp (Extra back animations) (TTYD Battle animations) (EUR)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"7 Mario Animations Revamp (Extra back animations) (TTYD Battle animations)/00040000000A5E00/romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               }
-            ],
-            "Revamp (Extra back animations) (TTYD Battle animations) (JPN)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"7 Mario Animations Revamp (Extra back animations) (TTYD Battle animations)/00040000000A5E00/romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               }
-            ],
-            "(Extra back animations) (Smooth) (TTYD Battle animations) (USA)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"8 Mario Animations Revamp (Extra back animations) (Smooth) (TTYD Battle animations)/00040000000A5E00/romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5E00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               }
-            ],
-            "(Extra back animations) (Smooth) (TTYD Battle animations) (EUR)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"8 Mario Animations Revamp (Extra back animations) (Smooth) (TTYD Battle animations)/00040000000A5E00/romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5F00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
-               }
-            ],
-            "(Extra back animations) (Smooth) (TTYD Battle animations) (JPN)": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://gamebanana.com/dl/1384804",
-                    "output": "sdmc:/PM3DS/mario_revamp_ver2.zip"
-                },
-                {
-                  "type":"extractFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip",
-                  "input":"8 Mario Animations Revamp (Extra back animations) (Smooth) (TTYD Battle animations)/00040000000A5E00/romfs/",
-                  "output":"sdmc:/luma/titles/00040000000A5D00/romfs/"
-               },
-               {
-                  "type":"deleteFile",
-                  "file":"sdmc:/PM3DS/mario_revamp_ver2.zip"
+                  "file":"sdmc:/PM3DS/mario_revamp_94cbf.zip"
                }
             ]
         },
