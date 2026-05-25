@@ -139,7 +139,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - [Beta Camera Angle](https://gamebanana.com/mods/646055) by Br123TT
 - [Artwork Styled Mario](https://gamebanana.com/mods/646479) by spah!
 - [Infinite Jump and Hammer Stickers](https://gamebanana.com/mods/646570) by Shigu
-- [Disable Run Button](https://gamebanana.com/dl/1709330) by Darxoon
+- [Disable Run Button](https://gamebanana.com/mods/679605) by Darxoon
 - [SMB 1 Style Brick and ? Blocks](https://gamebanana.com/mods/679552) by HunterXuman
 </details>
 
