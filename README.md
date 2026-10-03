@@ -141,6 +141,7 @@ An online repository of community made mods for Paper Mario Sticker Star, Color 
 - [Infinite Jump and Hammer Stickers](https://gamebanana.com/mods/646570) by Shigu
 - [Disable Run Button](https://gamebanana.com/mods/679605) by Darxoon
 - [SMB 1 Style Brick and ? Blocks](https://gamebanana.com/mods/679552) by HunterXuman
+- [Pyro Guy](https://gamebanana.com/mods/723715) by HunterXuman
 </details>
 
 <details>
